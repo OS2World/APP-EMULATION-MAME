@@ -1,0 +1,1 @@
+void os2printf( const char *fmt, ... );
