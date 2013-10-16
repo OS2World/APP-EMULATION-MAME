@@ -1,4 +1,20 @@
 APP-EMULATION-MAME
 ==================
 
-r Multiple Arcade Machine Emulator.
+Multiple Arcade Machine Emulator.
+
+LICENSE
+===============
+* BSD
+
+COMPILE TOOLS
+===============
+* 
+
+AUTHORS
+===============
+* 
+
+LINKS
+===============
+* http://mamedev.org
